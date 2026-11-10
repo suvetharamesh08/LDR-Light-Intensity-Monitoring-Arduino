@@ -70,28 +70,19 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 | Voltage supply | 5V |
 | Ground | GND |
 
-**Important:** Connect the LDR and 10kΩ resistor as a voltage divider. The junction between them should be connected to analog pin A1.
-
----
-
 ## 💻 Arduino Source Code
 
-[View LDR Monitoring Arduino Code](./ldrpin.ino)
+[View LDR Monitoring Arduino Code](./LDR_pin.ino)
 
----
+## 📸 Project Output
 
-## 🖥️ Expected Serial Monitor Output
+![LDR Sensor Output](./LDR%20OUTPUT.jpeg)
 
-```text
-light reading: 250
-light reading: 420
-light reading: 650
-light reading: 780
-```
+## 📸SERIAL MONITOR OUTPUT
+Output
 
-*The values shown above are examples. Actual readings vary depending on lighting conditions and circuit connections.*
+![LDR Sensor Output](./LDR%20OUTPUT.jpeg)
 
----
 
 ## 🧠 Concepts Learned
 
