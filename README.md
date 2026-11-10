@@ -70,21 +70,22 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 | Voltage supply | 5V |
 | Ground | GND |
 
-## 💻 Arduino Source Code
+##  Arduino Source Code
 
 [View LDR Monitoring Arduino Code](./LDR_pin.ino)
 
+
 ## 📸 Project Output
 
-![LDR Sensor Output](./LDR%20OUTPUT.jpeg)
+![LDR Sensor Output](./LDRPIN.jpeg)
 
-## 📸SERIAL MONITOR OUTPUT
+## SERIAL MONITOR OUTPUT
 Output
 
 ![LDR Sensor Output](./LDR%20OUTPUT.jpeg)
 
 
-## 🧠 Concepts Learned
+##  Concepts Learned
 
 - Arduino UNO programming
 - LDR sensor interfacing
@@ -96,7 +97,7 @@ Output
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add an LED that automatically switches ON in darkness.
 - Display light intensity on an LCD or OLED screen.
@@ -106,7 +107,7 @@ Output
 
 ---
 
-## 🌍 Applications
+## Applications
 
 - Automatic street lighting systems
 - Smart home lighting
@@ -118,7 +119,7 @@ Output
 ---
 
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 This project was developed as part of learning Arduino programming and sensor interfacing. It provides practical knowledge of analog signal measurement and real-time monitoring.
 
