@@ -38,16 +38,17 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 
 ## 🔧 Components Required
 
-| S.No | Component | Quantity |
-|---|---|---:|
-| 1 | Arduino UNO | 1 |
-| 2 | LDR Sensor | 1 |
-| 3 | 10kΩ Resistor | 1 |
-| 4 | Breadboard | 1 |
-| 5 | Jumper Wires | As required |
-| 6 | USB Cable | 1 |
-
----
+ Arduino UNO 
+ 
+ LDR Sensor 
+ 
+ 10kΩ Resistor 
+ 
+ Breadboard 
+ 
+ Jumper Wires 
+ 
+ USB Cable 
 
 ## ⚙️ Working Principle
 
@@ -59,16 +60,6 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 6. The process repeats continuously with a delay of 500 milliseconds.
 
 **Note:** The analog reading depends on the LDR circuit arrangement and surrounding lighting conditions. A higher reading does not always mean brighter light; it depends on how the LDR and resistor are connected.
-
----
-
-## 🔌 Circuit Connections
-
-| LDR Circuit Connection | Arduino UNO |
-|---|---|
-| LDR voltage-divider output | A1 |
-| Voltage supply | 5V |
-| Ground | GND |
 
 ##  Arduino Source Code
 
