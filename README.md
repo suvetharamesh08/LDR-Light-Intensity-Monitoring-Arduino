@@ -20,7 +20,6 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 - To interface an LDR with an Arduino UNO.
 - To measure variations in surrounding light levels.
 - To display sensor readings through the Serial Monitor.
-- To understand analog input reading and serial communication.
 
 ---
 
@@ -30,11 +29,7 @@ This project demonstrates the fundamentals of analog sensor interfacing, data ac
 - **Analog Signal Reading:** Reads sensor values through Arduino analog pin A1.
 - **Real-Time Monitoring:** Displays updated light readings continuously.
 - **Serial Monitor Output:** Shows sensor readings using serial communication.
-- **Automatic Data Updates:** Refreshes readings every 500 milliseconds.
-- **Beginner-Friendly Design:** Simple circuit and code suitable for learning Arduino basics.
-- **Low-Cost Implementation:** Uses basic and easily available electronic components.
 
----
 
 ## 🔧 Components Required
 
@@ -88,24 +83,12 @@ Output
 
 ---
 
-##  Future Improvements
-
-- Add an LED that automatically switches ON in darkness.
-- Display light intensity on an LCD or OLED screen.
-- Develop an automatic street lighting system.
-- Integrate IoT features for remote light monitoring.
-- Add data logging for long-term light intensity analysis.
-
----
 
 ## Applications
 
 - Automatic street lighting systems
 - Smart home lighting
 - Light intensity monitoring
-- Automatic night lamps
-- Energy-saving lighting systems
-- Educational electronics projects
 
 ---
 
@@ -116,6 +99,3 @@ This project was developed as part of learning Arduino programming and sensor in
 
 ---
 
-### 🔖 Tags
-
-`Arduino UNO` `LDR Sensor` `Light Intensity Monitoring` `Embedded Systems` `Analog Sensor` `Electronics Project` `Arduino Projects`
